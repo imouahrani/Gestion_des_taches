@@ -22,5 +22,5 @@
 ![Fenetre Stagiaire](done.PNG)
 
 ## Diagram
-![Fenetre Stagiaire](diagram.PNG)
+![Diagram](diagram.PNG)
 
