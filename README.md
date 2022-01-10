@@ -1,4 +1,4 @@
-# Gestion_des_taches
+# Gestion des tâches
 
 ## Connexion
 ![Connexion](login.PNG)
