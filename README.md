@@ -2,13 +2,12 @@
 
 ## Connexion
 ![Connexion](login.PNG)
-## Accueil
-![Accueil](Accueil.PNG)
+## Dashboard
+![Dashboard](dashboard.PNG)
 ## New task
 ![New task](new.PNG)
 ## TODO task
 ![TODO Task](todo.PNG)
 ## DONE task
 ![Fenetre Stagiaire](done.PNG)
-## Dashboard
-![Dashboard](dashboard.PNG)
+
