@@ -21,3 +21,6 @@
 ## DONE task
 ![Fenetre Stagiaire](done.PNG)
 
+## Diagram
+![Fenetre Stagiaire](diagram.PNG)
+
