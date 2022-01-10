@@ -5,10 +5,10 @@
 ## Accueil
 ![Accueil](Accueil.PNG)
 ## New task
-![New task](NEW.PNG)
+![New task](new.PNG)
 ## TODO task
-![TODO Task](TODO.PNG)
+![TODO Task](todo.PNG)
 ## DONE task
-![Fenetre Stagiaire](DONE.PNG)
+![Fenetre Stagiaire](done.PNG)
 ## Dashboard
 ![Dashboard](dashboard.PNG)
